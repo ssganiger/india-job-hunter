@@ -1,0 +1,7 @@
+interface:
+  display_name: "India Job Hunter"
+  short_description: "Find sourced India jobs and assess candidate fit"
+  default_prompt: "Use $india-job-hunter to find jobs in India that match my resume."
+
+policy:
+  allow_implicit_invocation: true
