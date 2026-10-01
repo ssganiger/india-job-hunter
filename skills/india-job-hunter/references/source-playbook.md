@@ -4,7 +4,7 @@ Use this for broad live sweeps. These are examples to adapt, not a required chec
 
 ## Search order
 
-1. Employer career and public ATS pages for likely target companies. Search the company site and the exact title or job ID.
+1. Employer career and public ATS pages for likely target companies. Use the [target-company seed](target-companies.md) only to shortlist relevant candidates, then add employers found elsewhere. Search the company site and the exact title or job ID.
 2. Broad portals and aggregators such as LinkedIn Jobs, Naukri, Foundit, Indeed, and Google Jobs. Use these to discover roles, then seek the employer listing.
 3. Relevant niche boards, recruiter posts, and public professional communities. Choose by seniority and domain; early-career boards may be irrelevant to senior candidates.
 
